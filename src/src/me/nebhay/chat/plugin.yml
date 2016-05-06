@@ -1,0 +1,8 @@
+name: chat
+version: 1.0
+main: me.nebhay.chat.Main
+commands:
+  Staffchat:
+      description: "staffchat"
+      aliases: [sc, ac, adminchat]
+      permission:  Chat.staffchat
